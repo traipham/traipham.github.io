@@ -2,7 +2,7 @@
 ![](gifs/tenor.gif)
 *Me looking at my code*
 ## About Me!
-I enjoy a variety of things, such as:\
+I enjoy a variety of things, such as:
 - **Football** <img src="images/football-png-11.png" width="50">
 - **Working Out**
 - **Hanging Out**
