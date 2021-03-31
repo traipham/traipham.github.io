@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Introduction Page!
 ![](gifs/tenor.gif)
 *Me looking at my code*
