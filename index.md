@@ -1,13 +1,14 @@
-# My Page!
-
+# Introduction Page!
+![](gifs/tenor.gif)
+*Me looking at my code*
 ## About Me!
 I enjoy a variety of things, such as:\
--**Football**\
--**Working Out**\
--**Hanging Out**\
--**Programming**\
--**Learning**\
--**Playing Videogames**
+- **Football** <img src="images/football-png-11.png" width="50">
+- **Working Out**
+- **Hanging Out**
+- **Programming**
+- **Learning**
+- **Playing Videogames**
 
 ### Favorite Quote!
 Robert Frost once said:
@@ -16,9 +17,22 @@ Robert Frost once said:
 To me this means that any failures/mistakes that you've made in your lifetime should not contain you in one place.
 You have to move on and learn from them because life *goes on*.
 
-### My Linkedin
-[Linkedin](https://www.linkedin.com/in/trai-pham-4a1272198/)
+### My Linkedin<img src="images/linkedIn_PNG38.png" width="50">
+[Linkedin](https://www.linkedin.com/in/trai-pham-4a1272198/)\
 Feel free to contact me!
+
+### CSE Courses 
+- [x] CSE 8A
+- [x] CSE 8B
+- [x] CSE 12
+- [x] CSE 15L
+- [x] CSE 20
+- [x] CSE 30
+- [x] CSE 21
+- [x] CSE 100
+- [x] CSE 105
+- [ ] CSE 101 
+- [ ] CSE 110
 
 ## My projects
 [Replit](https://replit.com/@traipham16) - discord bot and workshops coding
@@ -33,3 +47,5 @@ for(int i =0; i <= 10; i++){
 ## Link to Lab_1 Repo
 [Lab_1 Repo](https://github.com/traipham/Lab-1.git)
 
+## Questions about images/gifs?
+[click here](images/why_these_images.md)
