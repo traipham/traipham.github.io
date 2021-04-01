@@ -5,6 +5,12 @@ layout: default
 # Introduction Page!
 ![](gifs/tenor.gif)
 *Me looking at my code*
+
+##Contact Information
+- Email: traipham16@yahoo.com
+- Phone #: 714-725(2230)
+- College: UCSD
+
 ## About Me!
 I enjoy a variety of things, such as:
 - **Football** <img src="images/football-png-11.png" width="50">
