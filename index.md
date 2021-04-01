@@ -6,7 +6,7 @@ layout: default
 ![](gifs/tenor.gif)
 *Me looking at my code*
 
-##Contact Information
+## Contact Information
 - Email: traipham16@yahoo.com
 - Phone #: 714-725(2230)
 - College: UCSD
