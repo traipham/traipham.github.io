@@ -8,7 +8,7 @@ layout: default
 
 ## Contact Information
 - Email: traipham16@yahoo.com
-- Phone #: 714-725(2230)
+- Phone #: 714-725-2230
 
 ## About Me!
 I enjoy a variety of things, such as:
