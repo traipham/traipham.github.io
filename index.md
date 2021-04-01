@@ -9,7 +9,6 @@ layout: default
 ## Contact Information
 - Email: traipham16@yahoo.com
 - Phone #: 714-725(2230)
-- College: UCSD
 
 ## About Me!
 I enjoy a variety of things, such as:
