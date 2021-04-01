@@ -20,6 +20,8 @@ I enjoy a variety of things, such as:
 - **Learning**
 - **Playing Videogames**
 
+I'm currently a sophomore at UCSD, pursuing a CS major. 
+
 ### Favorite Quote!
 Robert Frost once said:
 >In three words I can sum up everything I've learned about life: It goes on
