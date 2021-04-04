@@ -5,6 +5,7 @@ layout: default
 # Introduction Page!
 ![](gifs/tenor.gif)
 *Me looking at my code*\
+[Image Link](gifs/tenor.gif)\
 [Go to Bottom of Page](#End)
 
 ## Contact Information
@@ -60,6 +61,9 @@ for(int i =0; i <= 10; i++){
 [Lab_1 Repo](https://github.com/traipham/Lab-1.git)
 
 ## Questions about images/gifs?
+[Football image](images/football-png-11.png)\
+[Linkedin image](images/linkedIn_PNG38.png)\
 [click here](images/why_these_images.md)
+
 ## End
 [Go to Top of Page](#introduction-page)
