@@ -56,6 +56,13 @@ for(int i =0; i <= 10; i++){
     system.out.println(i);
 }
 ```
+### Things to Do!
+1. Code
+2. Eat
+3. Watch Anime
+4. Discord and Game
+5. Sleep
+6. Repeat
 
 ## Link to Lab_1 Repo
 [Lab_1 Repo](https://github.com/traipham/Lab-1.git)
