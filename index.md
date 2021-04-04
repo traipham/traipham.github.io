@@ -4,7 +4,7 @@ layout: default
 
 # Introduction Page!
 ![](gifs/tenor.gif)
-*Me looking at my code*
+*Me looking at my code*\
 [Go to End of Page](#End)
 
 ## Contact Information
@@ -62,3 +62,4 @@ for(int i =0; i <= 10; i++){
 ## Questions about images/gifs?
 [click here](images/why_these_images.md)
 ## End
+[Go to Top of Page](#introduction-page)
