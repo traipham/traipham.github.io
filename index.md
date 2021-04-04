@@ -5,6 +5,7 @@ layout: default
 # Introduction Page!
 ![](gifs/tenor.gif)
 *Me looking at my code*
+[Go to End of Page](#End)
 
 ## Contact Information
 - Email: traipham16@yahoo.com
@@ -60,3 +61,4 @@ for(int i =0; i <= 10; i++){
 
 ## Questions about images/gifs?
 [click here](images/why_these_images.md)
+## End
