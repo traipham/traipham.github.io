@@ -5,7 +5,7 @@ layout: default
 # Introduction Page!
 ![](gifs/tenor.gif)
 *Me looking at my code*\
-[Go to End of Page](#End)
+[Go to Bottom of Page](#End)
 
 ## Contact Information
 - Email: traipham16@yahoo.com
