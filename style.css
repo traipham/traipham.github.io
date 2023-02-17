@@ -704,6 +704,7 @@ xclip
 .background-inner-box h2{
 	font-size: 22px;
 	font-weight: 600;
+    text-decoration: underline;
 	position: relative;
 	z-index: 1;
 }
@@ -711,6 +712,7 @@ xclip
 	font-size: 14px;
 	position: relative;
 	z-index: 1;
+    color:rgba(0, 0, 0, 0.8);
 }
 
 .background-inner-box::after{
@@ -1606,6 +1608,11 @@ hr.invis1 {
 	border-radius: 100px 100px 0px 100px;
 	-webkit-box-shadow: 0 0 10px #ccc;
 	box-shadow: 0 0 10px #ccc;
+}
+
+.gallery-single div i{
+    color:rgba(0, 0, 0, 0.8);
+    text-decoration: underline;
 }
 
 .gallery-list .img-overlay {
