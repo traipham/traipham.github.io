@@ -683,6 +683,8 @@ xclip
 
 .background-inner-box{
 	padding: 15px;
+    height: 230px;
+    overflow-y: scroll;
 	background: #ffffff;
 	margin-bottom: 30px;
 	border-radius: 50px 50px 0px 50px;
