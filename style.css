@@ -1745,47 +1745,56 @@ hr.invis1 {
     Our Team
 -------------------------------------------------------------------*/
 
-.our-team {
+#coursework .container .row{
+    overflow-x: scroll;
+    flex-wrap: nowrap;
+}
+
+.class-box {
 	text-align: center;
 }
-.our-team .pic{
+.class-box .pic{
     border-top: none;
     border-bottom: 5px solid #FA5;
     border-radius: 50% 50% 0 50%;
     overflow: hidden;
     transition: all 0.5s ease 0s;
 }
-.our-team:hover .pic{    
+.class-box:hover .pic{    
     border-bottom-color: #1c142b;
     border-radius: 0 50%;
 }
-.our-team .pic img{
+.class-box .pic img{
     width: 100%;
     height: auto;
     transition: all 0.5s ease 0s;
 }
-.our-team .team-content{ padding: 20px 0; }
-.our-team .title{
+.class-box .class-content{ 
+    padding: 20px 0; 
+    overflow-y: scroll;
+    height: 500px;
+}
+.class-box .title{
     font-size: 22px;
     font-weight: 700;
     color: #FA5;
     text-transform: uppercase;
     margin: 0 0 5px 0;
 }
-.our-team .post{
+.class-box .post{
     display: block;
     font-size: 17px;
     color: #878484;
     text-transform: capitalize;
     margin-bottom: 10px;
 }
-.our-team .social{
+.class-box .social{
     list-style: none;
     padding: 0;
     margin: 0;
 }
-.our-team .social li{ display: inline-block; }
-.our-team .social li a{
+.class-box .social li{ display: inline-block; }
+.class-box .social li a{
     display: block;
     width: 50px;
     height: 50px;
@@ -1798,12 +1807,12 @@ hr.invis1 {
     text-align: center;
     transition: all 0.5s ease 0s;
 }
-.our-team:hover .social li a{
+.class-box:hover .social li a{
     background: #1c142b;
     color: #fff;
 }
 @media only screen and (max-width: 990px){
-    .our-team{ margin-bottom: 30px; }
+    .class-box{ margin-bottom: 30px; }
 }
 
 /*------------------------------------------------------------------
