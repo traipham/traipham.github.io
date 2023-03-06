@@ -1653,6 +1653,10 @@ hr.invis1 {
     transform: translateY(10px);
 }
 
+.gallery-list .img-overlay .hoverbutton{
+    background-color: rgb(247, 237, 226);
+}
+
 .gallery-list .gallery-single:hover .img-overlay {
     opacity: 1;
     -webkit-transform: translateY(0);
