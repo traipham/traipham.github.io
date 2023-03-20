@@ -744,7 +744,7 @@ xclip
 	transition: all 0.3s ease-in-out 0s;
 }
 .background-inner-box:hover p{
-	color: #ffffff;
+	color: #000000;
 }
  
 
